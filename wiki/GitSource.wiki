@@ -1,6 +1,6 @@
 #summary Source code repository instructions
 
-=[https://github.com/multitheftauto The repository has been migrated back over to GitHub]=
+=[https://github.com/multitheftauto The project has migrated back over to GitHub]=
 The below information has been retained for historical purposes
 
 ----
