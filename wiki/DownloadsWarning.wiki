@@ -2,10 +2,10 @@
 
 = Introduction =
 
-The downloads in this project are not for general use.
+The downloads in this project are not for general use. You may be looking for [https://nightly.mtasa.com our Nightly Builds page] or the release version at [https://mtasa.com the homepage].
 
 
 = Details =
 
-If you really want to see the downloads page go here:
-*[http://code.google.com/p/multitheftauto/downloads/list here]*
+If you really want to see the downloads page go 
+*[http://code.google.com/p/multitheftauto/downloads/list here]*.
