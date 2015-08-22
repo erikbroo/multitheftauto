@@ -9,8 +9,8 @@ Multi Theft Auto San Andreas is split across multiple projects for which the com
 
 = Multi Theft Auto San Andreas: Blue =
 This project features the main source code for the MTASA client and the server.
- * http://github.com/multitheftauto/mtasa-blue/
+ * https://github.com/multitheftauto/mtasa-blue/
 
 = Multi Theft Auto San Andreas: Resources =
 The Resources project features Lua scripts which are required for the server to function.
- * http://github.com/multitheftauto/mtasa-resources/
+ * https://github.com/multitheftauto/mtasa-resources/
