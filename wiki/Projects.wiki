@@ -1,7 +1,7 @@
 #summary The various source code projects for MTA.
 
 =This page is no longer being updated=
-Please [https://github.com/multitheftauto our GitHub organisation] for a full list of repositories. The below information has been retained for historical purposes.
+Please visit [https://github.com/multitheftauto our GitHub organisation] for a full list of repositories. The below information has been retained for historical purposes.
 
 ----
 
